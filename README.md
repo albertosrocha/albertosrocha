@@ -2,7 +2,7 @@
 
 Living in Santa Catarina | Brazil 🇧🇷
 
-Tech Lead at [Credija](https://www.credija.com.br)
+Tech Lead at [Zup](https://www.zup.com.br)
 
 My Hobbies: 🏄🏻‍♂️ 🎮 🎸
 
