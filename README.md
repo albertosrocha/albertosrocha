@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=33FF33&center=true&vCenter=true&width=620&height=60&lines=%24+whoami;Software+Specialist+%40+Zup;Backend+%26+Cloud+Engineer;%24+sudo+make+systems+scale" alt="terminal typing header" />
 </p>
 
-```bash
+```diff
 alberto@rocha:~$ neofetch
    ┌────────────────────┐     +-----------------------------------------------+
    │ ●●●   bash         │     | alberto.dev.br -------------------------------|
