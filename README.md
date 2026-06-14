@@ -3,13 +3,13 @@
 </p>
 
 ```bash
-albertosrocha@zup:~$ neofetch
+alberto@rocha:~$ neofetch
    ┌────────────────────┐     +-----------------------------------------------+
-   │ ●●●   bash         │     | alberto@alberto.dev.br -----------------------|
+   │ ●●●   bash         │     | alberto.dev.br -------------------------------|
    ├────────────────────┤     | Role ........ Software Specialist             |
    │                    │     | Focus ....... Backend & Cloud Engineer & AI   |
    │ $ whoami           │     | Location .... Santa Catarina, Brazil          |
-   │ > albertosrocha    │     | Uptime ...... surfing | gaming | guitar       |
+   │ > alberto-rocha    │     | Uptime ...... surfing | gaming | guitar       |
    │                    │     |                                               |
    │ $ ./asr --scale    │     | Languages ... Java | Go                       |
    │ > systems online   │     | Frameworks .. Spring | Kafka                  |
@@ -18,11 +18,11 @@ albertosrocha@zup:~$ neofetch
    │                    │     | Cloud ....... AWS | Terraform                 |
    └────────────────────┘     +-----------------------------------------------+
 
-albertosrocha@zup:~$ ./contact.sh
+alberto@rocha:~$ ./contact.sh
 > LinkedIn  : linkedin.com/in/albertosrocha
 > Instagram : instagram.com/_albertosemprebon
 
-albertosrocha@zup:~$ █
+alberto@rocha:~$ █
 ```
 
 <p align="center">
