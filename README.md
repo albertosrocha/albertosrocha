@@ -1,49 +1,36 @@
-### Hi there 👋, I'm Alberto!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=33FF33&center=true&vCenter=true&width=620&height=60&lines=%24+whoami;Software+Specialist+%40+Zup;Backend+%26+Cloud+Engineer;%24+sudo+make+systems+scale" alt="terminal typing header" />
+</p>
 
-Living in Santa Catarina | Brazil 🇧🇷
+```bash
+albertosrocha@zup:~$ neofetch
+   ┌────────────────────┐     +-----------------------------------------------+
+   │ ●●●   bash         │     | alberto@alberto.dev.br -----------------------|
+   ├────────────────────┤     | Role ........ Software Specialist             |
+   │                    │     | Focus ....... Backend & Cloud Engineer & AI   |
+   │ $ whoami           │     | Location .... Santa Catarina, Brazil          |
+   │ > albertosrocha    │     | Uptime ...... surfing | gaming | guitar       |
+   │                    │     |                                               |
+   │ $ ./asr --scale    │     | Languages ... Java | Go                       |
+   │ > systems online   │     | Frameworks .. Spring | Kafka                  |
+   │                    │     | Infra ....... Docker | Kubernetes             |
+   │ $ █                │     | Databases ... PostgreSQL | MongoDB | DynamoDB | 
+   │                    │     | Cloud ....... AWS | Terraform                 |
+   └────────────────────┘     +-----------------------------------------------+
 
-Tech Lead at [Zup](https://www.zup.com.br)
+albertosrocha@zup:~$ ./contact.sh
+> LinkedIn  : linkedin.com/in/albertosrocha
+> Instagram : instagram.com/_albertosemprebon
 
-My Hobbies: 🏄🏻‍♂️ 🎮 🎸
+albertosrocha@zup:~$ █
+```
 
-
-
-### You can also find me on 🌎
-
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter ][twitterUrl]
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn ][linkedinUrl]
-
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> Instagram ][instagramUrl]
-
-
-
-### My technology Stack
-
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-[twitterUrl]: https://twitter.com/alberto_off
-[linkedinUrl]: https://www.linkedin.com/in/albertosrocha
-[instagramUrl]: https://www.instagram.com/_albertosemprebon
-
-<!--
-**albertosrocha/albertosrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/albertosrocha">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=33FF33" />
+  </a>
+  <a href="https://www.instagram.com/_albertosemprebon">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-0A0A0A?style=flat-square&logo=instagram&logoColor=33FF33" />
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=albertosrocha&style=flat-square&color=33FF33&label=visitors" />
+</p>
